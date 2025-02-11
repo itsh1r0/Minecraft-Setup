@@ -1,1 +1,1 @@
-# Minecraft-for-VTubers-Content-Creators
+# Minecraft for VTubers Content Creators
