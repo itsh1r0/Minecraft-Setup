@@ -1,0 +1,16 @@
+filename = 'plasmovoice-fabric-1.21.4-2.1.2.jar'
+name = 'Plasmo Voice'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.4' ]
+x-prismlauncher-release-type = 'alpha'
+
+[download]
+hash = 'fe90666c6fcd6be45dafef7ae4b1cd0ea75acf8f517db05e6cb7a032936e1079ce5621673156ce3533331759304d8eb6e8d29bb14f065e4307a372f41c4bf962'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/1bZhdhsH/versions/c1KEbu22/plasmovoice-fabric-1.21.4-2.1.2.jar'
+
+[update.modrinth]
+mod-id = '1bZhdhsH'
+version = 'c1KEbu22'
