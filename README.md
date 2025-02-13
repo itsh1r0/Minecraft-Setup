@@ -8,7 +8,7 @@
 
 ### **NOTE 4**: Kể cả khi bạn đã tự cài hoặc được một người khác cài đặt Minecraft giúp, hãy chắc chắn làm theo các bước dưới đây để tránh các vấn đề và sai sót không đáng có. Đối với các trường hợp không làm theo hướng dẫn này thì các Admin sẽ khó support hơn nên mong bạn hãy làm theo.
 
-### **NOTE 5**: Nếu bạn đến link này từ trong server, bạn nên skip đến đoạn [này](https://github.com/itsh1r0/Minecraft-for-VTubers-Content-Creators/tree/main?tab=readme-ov-file#3-setup-minecraft-part-1)
+### **NOTE 5**: Nếu bạn đến link này từ trong server, bạn nên skip đến đoạn này: [CLICK HERE](https://github.com/itsh1r0/Minecraft-for-VTubers-Content-Creators/tree/main?tab=readme-ov-file#3-setup-minecraft-part-1) 
 ***
 # Giới thiệu về Server:
 ***
@@ -205,6 +205,9 @@ Phần này tiếp tục được chia ra theo từng launcher.
 #### ***KHÔNG DÙNG OPTIFINE!!!**
 *Cái gì quan trọng nhắc 3 lần.*
 Hiện nay, Optifine đã không còn open-source như trước, dẫn tới nhiều vấn đề về tính tương thích với các mod khác. Không chỉ vậy, hiệu năng mà Optifine mang lại hiện không còn đáng kể, thậm chí có thể tệ hơn cả Minecraft mặc định.
+
+**Ngoài ra, server sử dụng custom resourcepack không hỗ trợ optifine**
+
 #### ***KHÔNG DÙNG OPTIFINE!!!**
 #### ***KHÔNG DÙNG OPTIFINE!!!**
 #### ***KHÔNG DÙNG OPTIFINE!!!**
