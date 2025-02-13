@@ -463,16 +463,16 @@ Tại mục **Volume**, hãy kéo âm lượng của **Discs** về 0%.
 Server sử dụng một hệ thống đăng nhập bằng tên người chơi và mật khẩu. Tuy nó khá tiện, so việc này có thể khiến VTuber hoặc Content Creator lộ mật khẩu tài khoản server khi vô tình nhập mật khẩu trên stream. Để tránh việc đó xảy ra, Admin đã tích hợp với Modpack cho VTuber / Creator mod Macro để có thể login nhanh, không bị lộ mật khẩu trên stream.
 
 Đầu tiên, hãy vào server một lần (Trước khi stream):
-![[/images/Pasted_image_20250214032106.png]]
+![](/images/Pasted_image_20250214032106.png)
 
 Bây giờ, tiến hành đăng kí theo cú pháp:
 `/register <mật khẩu> <nhập lại mật khẩu>` rồi *Enter*.
 Ví dụ:
-![[/images/Pasted_image_20250214032137.png]]
+![](/images/Pasted_image_20250214032137.png)
 
 Khi có thông báo đăng kí tài khoản thành công, vậy là thành công tạo tài khoản trong server.
-![[/images/Pasted_image_20250214032155.png]]
+![](/images/Pasted_image_20250214032155.png)
 
 Bây giờ, nhấn **K** và điền mật khẩu bạn vừa dùng để tạo tài khoản tại server vào sau đoạn `/login`. Ví dụ:
-![[images/Pasted_image_20250214032407.png]]
+![](images/Pasted_image_20250214032407.png)
 Cuối cùng, chọn nút **Edit Macro** ở bên dưới để lưu lại. Sau này, chỉ cần bấm nút Ctrl Phải là đã có thể login mà không bị lộ mật khẩu rồi.
