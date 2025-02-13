@@ -8,7 +8,7 @@
 
 ### **NOTE 4**: Kể cả khi bạn đã tự cài hoặc được một người khác cài đặt Minecraft giúp, hãy chắc chắn làm theo các bước dưới đây để tránh các vấn đề và sai sót không đáng có. Đối với các trường hợp không làm theo hướng dẫn này thì các Admin sẽ khó support hơn nên mong bạn hãy làm theo.
 
-### **NOTE 5**: Nếu bạn đến link này từ trong server, bạn nên skip đến đoạn này: [CLICK HERE](https://github.com/itsh1r0/Minecraft-for-VTubers-Content-Creators/tree/main?tab=readme-ov-file#3-setup-minecraft-part-1) 
+### **NOTE 5**: Nếu bạn đến link này từ trong server, bạn nên skip đến đoạn này: [CLICK HERE](#3-setup-minecraft-part-1) 
 ***
 # Giới thiệu về Server:
 ***
