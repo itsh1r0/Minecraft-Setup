@@ -475,4 +475,4 @@ Khi có thông báo đăng kí tài khoản thành công, vậy là thành công
 
 Bây giờ, nhấn **K** và điền mật khẩu bạn vừa dùng để tạo tài khoản tại server vào sau đoạn `/login`. Ví dụ:
 ![](images/Pasted_image_20250214032407.png)
-Cuối cùng, chọn nút **Edit Macro** ở bên dưới để lưu lại. Sau này, chỉ cần bấm nút Ctrl Phải là đã có thể login mà không bị lộ mật khẩu rồi.
+Cuối cùng, chọn nút **Done** ở bên dưới để lưu lại. Sau này, chỉ cần bấm nút Ctrl Phải là đã có thể login mà không bị lộ mật khẩu rồi.
