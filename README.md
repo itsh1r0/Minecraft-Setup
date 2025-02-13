@@ -130,7 +130,7 @@ Vậy là bạn đã cài đặt xong Minecraft Launcher. Hãy đọc tiếp đ�
 ### 2.2. Legacy Launcher (Recommend cho người chưa mua game)
 
 Truy cập [Legacy Launcher](https://llaun.ch/en), chọn **Download** để tải file cài đặt.
-![](/images/Pasted image 20250212130558.png)
+![](/images/Pasted_image_20250212130558.png)
 
 Chạy file `LegacyLauncher_Installer_legacy.exe`. **OK** và **Next** tới cùng.
 **Lưu ý:** Chọn ngôn ngữ là tiếng Anh sẽ dễ dàng hơn trong việc nhận được support từ Admin.
@@ -164,7 +164,7 @@ Vậy là xong. Đọc tiếp để tới phần setup sau.
 ### 2.3. Prism Launcher (Recommend cho người đã mua game, người chưa mua game không dùng được)
 
 Truy cập [link](https://prismlauncher.org/download/windows/) và chọn **Installer (.exe)** để tải file cài đặt.
-![](/images/Pasted image 20250212133751.png)
+![](/images/Pasted_image_20250212133751.png)
 
 Chạy file `PrismLauncher-Windows-MSVC-Setup.exe`, rồi **Next** đến cùng. Trong quá trình cài đặt, Prism Launcher sẽ cài cả Visual Studio Runtime cho bạn. Nếu xuất hiện thông báo quyền Admin, hãy đồng ý với thông báo đó.
 ![](/images/{38E643E0-5380-4EC3-914D-79EE87A052C7}.png)
