@@ -6,13 +6,13 @@ check_for_updates = true
 toggle = false
 type = "VOICE"
 [[key_bindings]]
-name = "key.plasmovoice.general.mute_microphone"
+name = "key.plasmovoice.general.disable_voice"
 any_context = false
 category = "key.plasmovoice.general"
 
 [[key_bindings.keys]]
-code = 4
-type = "MOUSE"
+code = 346
+type = "KEYSYM"
 
 [[key_bindings]]
 keys = []
@@ -52,6 +52,10 @@ stereo_capture = false
 
 [voice.volumes.proximity]
 volume = 1.0
+[voice.volumes.groups]
+volume = 1.0
+[voice.volumes.discs]
+volume = 0.5
 
 [advanced]
 visualize_voice_distance = true
@@ -78,4 +82,6 @@ overlay_position = "TOP_LEFT"
 overlay_style = "NAME_SKIN"
 
 [overlay.source_states]
-proximity = "OFF"
+proximity = "ON"
+groups = "WHEN_TALKING"
+discs = "OFF"
