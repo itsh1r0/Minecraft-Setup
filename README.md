@@ -6,7 +6,7 @@
 
 ### **NOTE 3**: Tốt hơn hết hãy đọc qua file này trước ít nhất 1 lần trước khi thực hiện.
 
-### **NOTE 4**: Kể cả khi bạn đã tự cài hoặc được một người khác cài đặt Minecraft giúp, hãy chắc chắn làm theo các bước dưới đây để tránh các vấn đề và sai sót không đáng có. Dàn Admin sẽ giới hạn mức độ support các đối với các trường hợp không làm theo hướng dẫn.
+### **NOTE 4**: Kể cả khi bạn đã tự cài hoặc được một người khác cài đặt Minecraft giúp, hãy chắc chắn làm theo các bước dưới đây để tránh các vấn đề và sai sót không đáng có. Đối với các trường hợp không làm theo hướng dẫn này thì các Admin sẽ khó support hơn nên mong bạn hãy làm theo.
 ***
 # Giới thiệu về Server:
 ***
