@@ -206,7 +206,7 @@ Phần này tiếp tục được chia ra theo từng launcher.
 *Cái gì quan trọng nhắc 3 lần.*
 Hiện nay, Optifine đã không còn open-source như trước, dẫn tới nhiều vấn đề về tính tương thích với các mod khác. Không chỉ vậy, hiệu năng mà Optifine mang lại hiện không còn đáng kể, thậm chí có thể tệ hơn cả Minecraft mặc định.
 
-**Ngoài ra, server sử dụng custom resourcepack không hỗ trợ optifine**
+ **Ngoài ra, server sử dụng custom resourcepack không hỗ trợ optifine!!!**
 
 #### ***KHÔNG DÙNG OPTIFINE!!!**
 #### ***KHÔNG DÙNG OPTIFINE!!!**
