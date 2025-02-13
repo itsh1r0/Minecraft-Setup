@@ -1,0 +1,64 @@
+{
+  "version": 5,
+  "profiles": [
+    {
+      "version": 4,
+      "name": "Simp Server",
+      "links": [
+        "node25156.mcviet.cloud"
+      ],
+      "addToHistory": "OFF",
+      "showHudMessage": "OFF",
+      "resumeRepeating": "OFF",
+      "useRatelimit": "ON",
+      "macros": [
+        {
+          "version": 5,
+          "addToHistory": false,
+          "showHudMessage": false,
+          "resumeRepeating": false,
+          "useRatelimit": false,
+          "conflictStrategy": "SUBMIT",
+          "sendMode": "SEND",
+          "spaceTicks": 0,
+          "keybind": {
+            "version": 0,
+            "keyName": "key.keyboard.right.control",
+            "limitKeyName": "key.keyboard.unknown"
+          },
+          "altKeybind": {
+            "version": 0,
+            "keyName": "key.keyboard.unknown",
+            "limitKeyName": "key.keyboard.unknown"
+          },
+          "messages": [
+            {
+              "version": 1,
+              "enabled": true,
+              "string": "/login",
+              "delayTicks": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "version": 4,
+      "name": "Default Profile",
+      "links": [],
+      "addToHistory": "OFF",
+      "showHudMessage": "OFF",
+      "resumeRepeating": "OFF",
+      "useRatelimit": "ON",
+      "macros": []
+    }
+  ],
+  "spDefault": 1,
+  "mpDefault": 1,
+  "defaultConflictStrategy": "SUBMIT",
+  "defaultSendMode": "SEND",
+  "ratelimitCount": 4,
+  "ratelimitTicks": 20,
+  "ratelimitStrict": false,
+  "ratelimitSp": false
+}

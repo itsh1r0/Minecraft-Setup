@@ -429,7 +429,7 @@ Bạn có thể đối chiếu với các bảng sau để chỉnh nút cho phù
 |                   Đổi góc nhìn                   |               F5               |       **Key Binds**       |
 |                      Ẩn HUD                      |               F1               |       **Key Binds**       |
 |                 Chỉnh Voice Chat                 |               V                |       **Key Binds**       |
-|                   Chỉnh Macro                    |               N                |       **Key Binds**       |
+|                   Chỉnh Macro                    |               K                |       **Key Binds**       |
 |         Mute Mic Voice chat của bản thân         |               M                |  Thông qua Plasmo Voice   |
 | Tắt Voice Chat<br>(Không nói và không nghe được) |    Right Alt<br>(Alt Phải)     | Thông qua<br>Plasmo Voice |
 |                 Dùng voice chat                  | Button 5 (Nút chuột hông trên) |  Thông qua Plasmo Voice   |
@@ -463,23 +463,16 @@ Tại mục **Volume**, hãy kéo âm lượng của **Discs** về 0%.
 Server sử dụng một hệ thống đăng nhập bằng tên người chơi và mật khẩu. Tuy nó khá tiện, so việc này có thể khiến VTuber hoặc Content Creator lộ mật khẩu tài khoản server khi vô tình nhập mật khẩu trên stream. Để tránh việc đó xảy ra, Admin đã tích hợp với Modpack cho VTuber / Creator mod Macro để có thể login nhanh, không bị lộ mật khẩu trên stream.
 
 Đầu tiên, hãy vào server một lần (Trước khi stream):
-![](/images/{4F6CDD6B-7116-4B4B-BDE9-545F53877077}.png)
+![[/images/Pasted_image_20250214032106.png]]
 
 Bây giờ, tiến hành đăng kí theo cú pháp:
 `/register <mật khẩu> <nhập lại mật khẩu>` rồi *Enter*.
 Ví dụ:
-![](/images/{BFA4D2C2-11F5-4FA8-9D70-F07E1C118C4D}.png)
+![[/images/Pasted_image_20250214032137.png]]
 
 Khi có thông báo đăng kí tài khoản thành công, vậy là thành công tạo tài khoản trong server.
-![](/images/{54AED682-956E-4438-9EF4-270633AF81B3}.png)
+![[/images/Pasted_image_20250214032155.png]]
 
-Bây giờ, nhấn **N** rồi chọn **Server Macros Options**:
-![](/images/{C5851EBA-00D0-47BA-8E7F-B81215DC16DE}.png)
-
-Bây giờ, chọn nút Edit Macro bên phải chữ **Fast Login**:
-![](/images/{5C970851-D09D-47D1-BF07-6D4751631474}.png)
-
-Điền mật khẩu bạn vừa dùng để tạo tài khoản tại server vào sau đoạn `/login` tại dòng **Action**. Ví dụ:
-![](/images/{4744414B-C17C-4005-85F1-ABDA30121A59}.png)
-
+Bây giờ, nhấn **K** và điền mật khẩu bạn vừa dùng để tạo tài khoản tại server vào sau đoạn `/login`. Ví dụ:
+![[images/Pasted_image_20250214032407.png]]
 Cuối cùng, chọn nút **Edit Macro** ở bên dưới để lưu lại. Sau này, chỉ cần bấm nút Ctrl Phải là đã có thể login mà không bị lộ mật khẩu rồi.

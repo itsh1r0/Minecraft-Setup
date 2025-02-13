@@ -125,8 +125,8 @@ key_key.hotbar.8:key.keyboard.8
 key_key.hotbar.9:key.keyboard.9
 key_key.dynamic_fps.toggle_forced:key.keyboard.unknown
 key_key.dynamic_fps.toggle_disabled:key.keyboard.unknown
-key_key.macrokeybinds.openoptions.desc:key.keyboard.n
 key_key.wi_zoom.zoom:key.mouse.4
+key_key.commandkeys.main.edit:key.keyboard.k
 key_key.entityculling.toggle:key.keyboard.unknown
 key_key.modmenu.open_menu:key.keyboard.unknown
 key_key.plasmovoice.settings:key.keyboard.v
