@@ -20,6 +20,7 @@ Là một server Minecraft SMP đơn giản, được Group lập ra để làm 
 - Death Chest: Khi chết, đồ của người chơi sẽ được giữ trong một rương đồ trong 3 phút.
 - Hidden Armor: Ẩn giáp để hiện skin người chơi.
 ### LƯU Ý: Server chỉ hỗ trợ phiên bản 1.21.4
+### IP: *node25156.mcviet.cloud:35156*
 ***
 # Hướng dẫn setup Minecraft:
 ***
