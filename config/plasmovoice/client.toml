@@ -78,7 +78,7 @@ activation_icon_position = "BOTTOM_CENTER"
 show_source_icons = 0
 show_static_source_icons = true
 overlay_enabled = true
-overlay_position = "TOP_LEFT"
+overlay_position = "TOP_RIGHT"
 overlay_style = "NAME_SKIN"
 
 [overlay.source_states]
