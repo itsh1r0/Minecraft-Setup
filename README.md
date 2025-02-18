@@ -3,6 +3,7 @@
 IP: *node25156.mcviet.cloud:35156*
 
 **Ngắn gọn:** Bạn không cần cài mod thì vẫn chơi được, nhưng trải nghiệm sẽ không tốt.
+
 Vài lưu ý:
 - Server không hỗ trợ Optifine (Optifine giờ còn tệ hơn cả Vanilla, why ?)
 - Bạn cần cài Java 21 để đảm bảo về mặt hiệu năng.
