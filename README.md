@@ -1,6 +1,7 @@
 # Hướng dẫn cài đặt Minecraft để chơi server Simp.
 
 IP: *node25156.mcviet.cloud:35156*
+
 **Ngắn gọn:** Bạn không cần cài mod thì vẫn chơi được, nhưng trải nghiệm sẽ không tốt.
 Vài lưu ý:
 - Server không hỗ trợ Optifine (Optifine giờ còn tệ hơn cả Vanilla, why ?)
